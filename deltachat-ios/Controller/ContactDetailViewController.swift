@@ -1,4 +1,5 @@
 import UIKit
+import DcCore
 
 // this is also used as ChatDetail for SingleChats
 class ContactDetailViewController: UITableViewController {
